@@ -3,11 +3,8 @@ import './App.css';
 // import Bootstrap from 'react-bootstrap';
 
 
-function Bio() {
+export default function Bio() {
   return (
-    <header>Test</header>
-    
-  );
+    <h1>Test1</h1>
+    );
 }
-
-export default Bio;

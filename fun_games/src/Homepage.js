@@ -5,7 +5,7 @@ import './App.css';
 
 function Homepage() {
   return (
-  <header>Test</header>
+  <h1>Test</h1>
     
   );
 }

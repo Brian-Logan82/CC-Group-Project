@@ -11,7 +11,7 @@ function Footer() {
     <Row>
         <Col></Col>
         <Col>
-            <Navbar bg="light">
+            <Navbar bg="dark">
             <Navbar.Brand>2020 Copyright Cultivating Coders</Navbar.Brand>
             </Navbar>
         </Col>
